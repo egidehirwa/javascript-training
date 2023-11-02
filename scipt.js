@@ -37,3 +37,5 @@ console.log(typeof isIsland, typeof population, typeof country, typeof language)
 /* Declaring variables */
 
 language = 'French';
+
+console.log(language)
