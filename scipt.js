@@ -39,3 +39,11 @@ console.log(typeof isIsland, typeof population, typeof country, typeof language)
 language = 'French';
 
 console.log(language)
+
+/* Learnes on js online */
+
+length
+at()
+substring()
+toUpperCase()
+console.log(language.at(-1))
